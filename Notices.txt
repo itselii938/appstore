@@ -1,1 +1,7 @@
+1. 
 Google Drive uploads have been depreciated and currently available files on Google Drive will be deleted on Friday 15th May
+
+2. 
+Known issues:
+Feedback submission doesn't work
+Launcher is unstable
