@@ -3,5 +3,8 @@ Google Drive uploads have been depreciated and currently available files on Goog
 
 2. 
 Known issues:
-Feedback submission doesn't work
 Launcher is unstable
+
+3:
+Recently fixed:
+Submitting feedback
