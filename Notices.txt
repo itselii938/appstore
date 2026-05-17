@@ -1,12 +1,11 @@
-people are tryna kill 6 7. whether thats working though..
+most people are tryna kill 6 7. but there's a non-zero amount of people not trying..
 
 1. 
-Google Drive uploads have been deleted
-
-2. 
 Known issues:
 Launcher is unstable
+Messages has weird ui quirks
+Files upload doesn't work
 
-3:
+2:
 Recently fixed:
 Submitting feedback
