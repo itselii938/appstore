@@ -1,11 +1,6 @@
-most people are tryna kill 6 7. but there's a non-zero amount of people not trying..
+**Notes has been depreciated. A replacement may or may not be created in the future.**
 
 1. 
 Known issues:
 Launcher is unstable
 Messages has weird ui quirks
-Files upload doesn't work
-
-2:
-Recently fixed:
-Submitting feedback
