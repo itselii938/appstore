@@ -1,6 +1,3 @@
 **Notes has been depreciated. A replacement may or may not be created in the future.**
 
-1. 
-Known issues:
-Launcher is unstable
-Messages has weird ui quirks
+Tower Defense is now out of beta!! Try it out and leave feedback in the feedback tab :)
