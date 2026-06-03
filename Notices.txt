@@ -3,7 +3,4 @@ developer.apple.com/wwdc26/
 
 **Notes has been depreciated. A replacement may or may not be created in the future.**
 
-Big fixes and updates in some apps :)
-
-DON'T USE THE APP STORE TO INSTALL APPS!!
-IT'S BROKEN
+Messages is going soon and will be replaced
