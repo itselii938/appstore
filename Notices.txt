@@ -1,6 +1,6 @@
 WWDC26 NEXT WEEK!!
 developer.apple.com/wwdc26/
 
-**Notes has been depreciated. A replacement may or may not be created in the future.**
+**Notes is now part of Xin. The Notes app will be removed from the app store very soon (6/6/26).**
 
 Messages is going soon and will be replaced
