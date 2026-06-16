@@ -1,11 +1,12 @@
 app store:1.2
 benchmark:1.0
 calculator:1.0
-camera:1.1
+camera:1.1.1
 clock:1.0
-files:1.0
+files:1.1
 hotspot:1.2
 launcher:1.1
+photos:0.1
 tower defense:1.1
 translate:1.1
 xin:1.2
