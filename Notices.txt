@@ -1,7 +1,7 @@
 WWDC26 happened, Siri got a big AI revamp (its powered by Google Gemini lol)
 
-Lan, my new browser app, is now in beta!
+Lan, my new browser app, is now in beta
 
-Clock is here :)
+Clock is here
 
-New app Photos, now in beta :)
+New app Photos, now in beta
