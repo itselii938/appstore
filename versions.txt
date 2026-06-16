@@ -7,7 +7,7 @@ clock:1.0
 files:1.1
 hotspot:1.2
 launcher:1.1
-photos:0.1
+photos:0.2
 tower defense:1.1
 translate:1.1
 xin:1.2
