@@ -8,6 +8,7 @@ files:1.1
 hotspot:1.2
 launcher:1.1
 photos:0.2
+revenge:1.0
 tower defense:1.1
 translate:1.1
 xin:1.2
