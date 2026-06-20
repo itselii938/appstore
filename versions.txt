@@ -1,4 +1,4 @@
-app store:1.2
+app store:1.3
 appstorelite:1.0.1
 benchmark:1.0
 calculator:1.0
