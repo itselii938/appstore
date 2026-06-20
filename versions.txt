@@ -5,7 +5,7 @@ calculator:1.0
 camera:1.1.1
 clock:1.0
 files:1.1
-hotspot:1.2
+Hotspot:1.2
 launcher:1.1
 photos:0.2
 revenge:1.0
